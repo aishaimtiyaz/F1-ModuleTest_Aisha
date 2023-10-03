@@ -1,0 +1,11 @@
+/* Use the <nav> tag combined with <ul> and <li> for the menu items. The main message can be wrapped inside a <header> tag. For styling, use position: fixed; to keep the navbar at the top and employ font-family and font-size to style the text. Consider using a flexbox layout for aligning items */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-pic-div1{
+  background-color: blue !important; 
+}
+.nav-pic-div2{
+  background-color: aqua !important;
+}
