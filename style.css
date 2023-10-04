@@ -247,10 +247,27 @@ header{
     border-radius: 15px;
     border: 1px solid #efefef !important;
 }
+.sp{
+    position: absolute;
+    
+    display: flex;
+
+    /* box-sizing: content-box; */
+    width: fit-content;
+    border-radius: 3px;
+    padding: 2px;
+    margin-left:275px;
+    /* margin-top: 20px; */
+    margin-bottom:0lvh;
+    font-weight: 500;
+    gap:0px;
+
+}
 
 .course-card2{
     border:1px solid #2F80ED !important;
     box-shadow: #2F80ED;
+    /* border: block 2px;  */
 }
 .course-title
 {
