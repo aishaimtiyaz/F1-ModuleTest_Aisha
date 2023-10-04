@@ -247,6 +247,11 @@ header{
     border-radius: 15px;
     border: 1px solid #efefef !important;
 }
+
+.course-card2{
+    border:1px solid #2F80ED !important;
+    box-shadow: #2F80ED;
+}
 .course-title
 {
     margin-top: 25px;
@@ -298,6 +303,7 @@ header{
 .more-details
 {
     margin-top: 20px;
+    margin-bottom: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center !important;
